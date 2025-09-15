@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -20,7 +19,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-<<<<<<< HEAD
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -77,5 +75,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
->>>>>>> 1335cdf33a570794c7216748fc77ad4b3d9d2173
 }
